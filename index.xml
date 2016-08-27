@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AGEOFISH</title>
-    <link>http://ageofish.github.io/</link>
+    <link>https://ageofish.github.io/</link>
     <description>Recent content on AGEOFISH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 27 Aug 2016 09:26:18 -0700</lastBuildDate>
-    <atom:link href="http://ageofish.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ageofish.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>welcome</title>
-      <link>http://ageofish.github.io/post/welcome/</link>
+      <link>https://ageofish.github.io/post/welcome/</link>
       <pubDate>Sat, 27 Aug 2016 09:26:18 -0700</pubDate>
       
-      <guid>http://ageofish.github.io/post/welcome/</guid>
+      <guid>https://ageofish.github.io/post/welcome/</guid>
       <description></description>
     </item>
     
