@@ -1,25 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ageofish.github.io/</loc>
-    <lastmod>2016-08-29T09:08:50-07:00</lastmod>
+    <loc>http://ageofish.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ageofish.github.io/post/steady/</loc>
-    <lastmod>2016-08-29T09:08:50-07:00</lastmod>
+    <loc>http://ageofish.com/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ageofish.github.io/post/shanghaishanghai/</loc>
-    <lastmod>2016-08-28T03:29:23-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ageofish.github.io/post/welcome/</loc>
-    <lastmod>2016-08-27T09:26:18-07:00</lastmod>
+    <loc>http://ageofish.com/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

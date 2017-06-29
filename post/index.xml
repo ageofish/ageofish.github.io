@@ -2,52 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on AGEOFISH</title>
-    <link>https://ageofish.github.io/post/</link>
+    <link>http://ageofish.com/post/</link>
     <description>Recent content in Posts on AGEOFISH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 29 Aug 2016 09:08:50 -0700</lastBuildDate>
-    <atom:link href="https://ageofish.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ageofish.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>该你坚持的时候，就要坚定不移</title>
-      <link>https://ageofish.github.io/post/steady/</link>
-      <pubDate>Mon, 29 Aug 2016 09:08:50 -0700</pubDate>
+      <title>Test</title>
+      <link>http://ageofish.com/post/first_post/</link>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ageofish.github.io/post/steady/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://ageofish.github.io/images/2016-07-31-122948.jpg&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;地动山摇的时候，就是自己要坚定不移的时候。&lt;/p&gt;
-
-&lt;p&gt;Steady, steady!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>上海，上海</title>
-      <link>https://ageofish.github.io/post/shanghaishanghai/</link>
-      <pubDate>Sun, 28 Aug 2016 03:29:23 -0700</pubDate>
-      
-      <guid>https://ageofish.github.io/post/shanghaishanghai/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://ageofish.github.io/images/2016-07-10153129.jpg&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;掐指算来，回魔都刚刚好三个月又三天。&lt;/p&gt;
-
-&lt;p&gt;客厅的窗户开了一半，闷骚的风把我家当哨子，吹出俏皮的呜呜声。窗外一片蓝天，挂着朵朵白云。和和睦睦，居然是一片盛世升平的景象。&lt;/p&gt;
-
-&lt;p&gt;几年前酒足饭饱之余也曾扯淡要回天朝报效的伙伴们，居然排着队都回来了，也是一景。而我这儿走在似曾相识的街道上，还没缓过神来。&lt;/p&gt;
-
-&lt;p&gt;天朝甚好，已不是离开时的模样。勿忘初心，好土壤里，就要茁壮生长。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>welcome</title>
-      <link>https://ageofish.github.io/post/welcome/</link>
-      <pubDate>Sat, 27 Aug 2016 09:26:18 -0700</pubDate>
-      
-      <guid>https://ageofish.github.io/post/welcome/</guid>
-      <description></description>
+      <guid>http://ageofish.com/post/first_post/</guid>
+      <description>What will be more important now?</description>
     </item>
     
   </channel>

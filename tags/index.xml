@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AGEOFISH</title>
-    <link>http://ageofish.com/</link>
-    <description>Recent content on AGEOFISH</description>
+    <title>Tags on AGEOFISH</title>
+    <link>http://ageofish.com/tags/</link>
+    <description>Recent content in Tags on AGEOFISH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	<atom:link href="http://ageofish.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ageofish.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
