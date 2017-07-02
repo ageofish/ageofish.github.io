@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ageofish.com/post/2008_0926_evolution/</loc>
+    <lastmod>2008-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://ageofish.com/</loc>
+    <lastmod>2008-09-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ageofish.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ageofish.com/post/</loc>
+    <lastmod>2008-09-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
